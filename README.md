@@ -16,5 +16,14 @@
 ### PIC18F45203微控制器腳位說明 
 ![image](https://user-images.githubusercontent.com/83625018/117560804-8025bc00-b0c3-11eb-9e59-c04a1dff5507.png)
 
+## 4. 利用UART和GPIO讓微控制器、Arduino進行溝通
+### 系統架構圖
 "![image](https://user-images.githubusercontent.com/83625018/117560747-07befb00-b0c3-11eb-9444-62673f6d1987.png)"
-6. 123
+### 系統實作
+![image](https://user-images.githubusercontent.com/83625018/117560892-7badd300-b0c4-11eb-891e-5956e3bb4ab5.png)
+
+## 5. 成果
+### 前方八路紅外線
+![image](https://user-images.githubusercontent.com/83625018/117560869-3d181880-b0c4-11eb-8724-d09702d4747b.png)
+### 機器人實體
+![image](https://user-images.githubusercontent.com/83625018/117560897-849ea480-b0c4-11eb-8806-2821269eb790.png)
